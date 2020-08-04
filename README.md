@@ -1,14 +1,10 @@
 ### Hey there, Good to see you here :blush:
 
-<br/>
-
 ### :sparkles: This is Raghu Sanikommu :sparkles: 
 - Going to be graduated in 2021 with a degree in Bachelors of Technology from Electronics and Communication Engineering.
 - Currently going through my last semester of undergrad course and soon will catch up on web development.
 - Greatly inclined to code :computer:
 - Love science :heart:
-
-<br/>
 
 > _Favourite quote by Nikola Tesla - :star: What one man calls God, another calls laws of Physics. :star:_
 
