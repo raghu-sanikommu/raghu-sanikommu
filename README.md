@@ -6,7 +6,7 @@
 - Greatly inclined to code :computer:
 - Love science :heart:
 
-> _Favourite quote by Nikola Tesla - :star: What one man calls God, another calls laws of Physics. :star:_
+> _Favourite quote by Nikola Tesla - :star: What one man calls **God**, another calls the laws of **Physics**. :star:_
 
 <br/>
 
@@ -15,6 +15,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <img align="left" alt="Sublime Text" width="30px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+
+<img align="left" alt="PyCharm" width="30px" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" />
 
 <img align="left" alt="Postman" width="30px" src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" />
 
