@@ -28,6 +28,8 @@
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<img align="left" alt="mongoDB" width="30px" src="https://symbols-electrical.getvecta.com/stencil_261/25_mongodb.f1296c0db6.png" />
+
 <br/>
 <br/>
 
@@ -37,7 +39,7 @@
 
 <img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQqH8lj9mlMZe3YQZ8fm5fr9Rxy8ppof-WlFQ&usqp=CAU" />
 
 <img align="left" alt="JavaScript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/600px-Python-logo-notext.svg.png" />
 
