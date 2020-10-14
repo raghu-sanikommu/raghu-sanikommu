@@ -2,7 +2,7 @@
 
 ### :sparkles: This is Raghu Sanikommu :sparkles: 
 - Going to be graduated in 2021 with a degree in Bachelor of Technology from Electronics and Communication Engineering.
-- Currently going through my last semester of undergrad course and soon will catch up on web development.
+- Currently going through my last semester of undergrad course and soon will catch up on software development.
 - Greatly inclined to code :computer:
 - Love science :heart:
 
