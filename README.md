@@ -2,7 +2,7 @@
 
 ### :sparkles: This is Raghu Sanikommu :sparkles: 
 - with a degree in Bachelor of Technology from Electronics and Communication Engineering.
-- Currently working in India's Top 1 MNC as a trainee.
+- Currently working as a trainee in India's Top 1 IT MNC.
 - Greatly inclined to code :computer:
 - Love science :heart:
 
