@@ -28,7 +28,7 @@
 
 <img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<img align="left" alt="mongoDB" width="30px" src="https://symbols-electrical.getvecta.com/stencil_261/25_mongodb.f1296c0db6.png" />
+<img align="left" alt="mongoDB" width="30px" src="https://dwglogo.com/wp-content/uploads/2017/12/MongoDB_logo_01.png" />
 
 <br/>
 <br/>
